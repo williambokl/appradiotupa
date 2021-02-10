@@ -1,0 +1,45 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PHOTO_LIBRARY_ADD_USAGE_DESCRIPTION": "This app requires photo library access to function properly.",
+      "PHOTO_LIBRARY_USAGE_DESCRIPTION": "This app requires photo library access to function properly.",
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "nl.kingsquare.cordova.background-audio": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "Cristian.KL.RadioTupa"
+    }
+  }
+}
